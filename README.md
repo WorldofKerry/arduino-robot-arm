@@ -2,6 +2,8 @@
 The goal is to create a robotic arm that can direct a light towards an area that I am working on. 
 
 ## Pictures
+![Alt text](Images/overview.jpg?raw=true "Overview")
+![Alt text](Images/circuitry.jpg?raw=true "Circuitry")
 
 ## Components
  - Arduino Uno R3
